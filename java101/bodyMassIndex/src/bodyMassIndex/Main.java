@@ -1,4 +1,4 @@
-package vucutKitleIndeksi;
+package bodyMassIndex;
 
 import java.util.Scanner;
 

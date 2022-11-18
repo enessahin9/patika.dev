@@ -1,4 +1,4 @@
-package manavKasa;
+package greenGrocer;
 
 import java.util.Scanner;
 

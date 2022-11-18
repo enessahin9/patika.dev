@@ -1,4 +1,4 @@
-package hipotenus;
+package hypotenuse;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package daireAlanCevre;
+package areaOfTriangle;
 
 import java.util.Scanner;
 
